@@ -1,0 +1,23 @@
+{
+  "name": "organizer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xFACE8D/organizer.git"
+  },
+  "author": "Grigoriy Alekseyenko (grigoriyalexeenko@gmail.com)",
+  "contributors": [
+    "Grigoriy Alekseyenko (grigoriyalexeenko@gmail.com)",
+    "Igor Alekseyenko (alexeenko.igor@gmail.com)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xFACE8D/organizer/issues"
+  },
+  "homepage": "https://github.com/0xFACE8D/organizer#readme"
+}
